@@ -1,6 +1,5 @@
 # Tesla Stock Price Prediction
-
-A machine learning project that predicts Tesla stock prices using historical market data and various regression algorithms.
+This project was a personal project aimed at gaining some experience working with Datasets, Pandas and some common ML Libraries. The project predicts Tesla stock prices using historical market data and various regression algorithms.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ejaifeobuks/Tesla-Stock-Price-Prediction/blob/main/Tesla_Stock_Market_Price_Prediction.ipynb)
 
